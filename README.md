@@ -13,4 +13,4 @@ Installation : Mettre dans vos resources/ et start dans server.cfg
 
 Installation: Put in your resources / and start in server.cfg
 
-Preview : https://streamable.com/js1bz
+Preview : https://zupimages.net/up/21/20/p4uh.gif
